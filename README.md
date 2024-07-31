@@ -2,6 +2,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://i.pinimg.com/originals/d0/97/9b/d0979b26cec609049b3d1a3dee5b89b3.gif" alt="Ascii kiss">
+</div>
+
+###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/df1gg/df1gg/output/snake.svg" alt="Snake animation" />
