@@ -1,4 +1,4 @@
-<h2 align="left">Sup 👋! My name is Cortex and I'm a developer & more...</h2>
+<h2 align="left">Sup 👋! My name is Cortex, I'm a developer & more...</h2>
 
 ###
 
