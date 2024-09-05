@@ -10,11 +10,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=df1gg&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 ### ✍️ Random Dev Quote
