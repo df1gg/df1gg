@@ -1,7 +1,3 @@
-![Header](header.png)
-
----
-
 ![](https://komarev.com/ghpvc/?username=df1gg&style=for-the-badge)
 
 # 💻 Tech Stack:
